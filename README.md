@@ -93,11 +93,6 @@ Reinforcement Learning enables an agent to learn by interacting with an environm
 - Evaluate performance across multiple game episodes.
 - Optimize the agent's strategy for higher scores and longer survival.
 
-## 👨‍💻 Author
-
-**Debashish Biswas**
-
-GitHub: [@Deb-94](https://github.com/Deb-94)
 
 ## ⭐ Support
 
