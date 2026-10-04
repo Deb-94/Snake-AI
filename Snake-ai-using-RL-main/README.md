@@ -137,6 +137,5 @@ Scores are noisy early on (mostly random wall/self collisions) and generally tre
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
+---
+⭐ If you find this project interesting, consider giving the repository a star!
