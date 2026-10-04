@@ -6,7 +6,7 @@ The project focuses on AI decision-making, learning through rewards and penaltie
 
 ## 🚀 Features
 
-- 🤖 **AI-Powered Gameplay** — Automate Snake gameplay using an AI agent.
+- 🤖 **AI-Powered Gameplay** — Automate Snake gameplay using an AI agent. 
 - 🧠 **Reinforcement Learning** — Explore how an agent learns through trial and error.
 - 🎯 **Reward-Based Learning** — Encourage beneficial actions and discourage mistakes.
 - 🐍 **Classic Snake Environment** — Navigate the game, collect food, and avoid collisions.
